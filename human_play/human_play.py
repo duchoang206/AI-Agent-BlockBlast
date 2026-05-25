@@ -10,7 +10,7 @@ LOG_FILE = "human_play/human_play_log.json"
 FPS = 30
 
 
-# ---------- helpers ---------------------------------------------------------
+# ---------- helper functions ------------------------------------------------
 def _to_python(obj: Any):
     """Recursively turn ndarray ⇢ list so json.dump() is happy."""
     if isinstance(obj, np.ndarray):
