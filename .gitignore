@@ -8,3 +8,25 @@ models/evaluations.npz
 /agents/trained
 *.pyc
 /agents/logs
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local config/secret files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
