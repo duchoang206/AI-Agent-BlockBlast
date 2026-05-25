@@ -16,7 +16,7 @@ class BlockGameEnv(gym.Env):
     def __init__(self, render_mode=None):
         super().__init__()
 
-        # Initialize game state
+        # Initialize the core game state
         self.game_state = BlockGameState()
 
         # Define action and observation spaces
