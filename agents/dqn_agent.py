@@ -1,3 +1,4 @@
+# Developed by: Hoàng Xuân Đức - Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội (KHTN ĐHQGHN)
 import time
 import os
 from stable_baselines3 import DQN

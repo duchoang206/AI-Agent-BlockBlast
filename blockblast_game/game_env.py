@@ -1,3 +1,4 @@
+# Developed by: Hoàng Xuân Đức - Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội (KHTN ĐHQGHN)
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces

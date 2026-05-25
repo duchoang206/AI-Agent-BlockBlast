@@ -1,3 +1,4 @@
+# Developed by: Hoàng Xuân Đức - Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội (KHTN ĐHQGHN)
 """
 Utility for visualizing agents playing the block game.
 Provides a consistent interface for visualizing different types of agents.

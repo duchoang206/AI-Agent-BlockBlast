@@ -1,4 +1,4 @@
-2025-04-25 02:49:31,752 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+﻿2025-04-25 02:49:31,752 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 02:49:32,331 - INFO - Starting runs for Random
 2025-04-25 02:49:32,335 - INFO - Random - Episode 1/300 | score=20 | reward=5.0 | steps=14 | valid_moves=14 | invalid_attempts=0
 2025-04-25 02:49:32,338 - INFO - Random - Episode 2/300 | score=60 | reward=11.0 | steps=17 | valid_moves=17 | invalid_attempts=0
@@ -310,7 +310,7 @@
 2025-04-25 02:49:33,909 - INFO - PPO - Episode 7/300 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
 2025-04-25 02:49:34,052 - INFO - PPO - Episode 8/300 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
 2025-04-25 02:49:34,198 - INFO - PPO - Episode 9/300 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
-2025-04-25 02:49:49,545 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 02:49:49,545 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 02:49:50,007 - INFO - Starting runs for Random
 2025-04-25 02:49:50,009 - INFO - Random - Episode 1/3 | score=30 | reward=8.5 | steps=17 | valid_moves=17 | invalid_attempts=0
 2025-04-25 02:49:50,010 - INFO - Random - Episode 2/3 | score=10 | reward=2.0 | steps=11 | valid_moves=11 | invalid_attempts=0
@@ -327,8 +327,8 @@
 2025-04-25 02:49:50,786 - INFO - Masked PPO - Episode 1/3 | score=690 | reward=71.5 | steps=47 | valid_moves=47 | invalid_attempts=0
 2025-04-25 02:49:50,791 - INFO - Masked PPO - Episode 2/3 | score=100 | reward=14.0 | steps=17 | valid_moves=17 | invalid_attempts=0
 2025-04-25 02:49:50,800 - INFO - Masked PPO - Episode 3/3 | score=200 | reward=32.5 | steps=32 | valid_moves=32 | invalid_attempts=0
-2025-04-25 02:49:50,804 - INFO - Saved all episode results to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/results.csv
-2025-04-25 02:52:23,308 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 02:49:50,804 - INFO - Saved all episode results to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/results.csv
+2025-04-25 02:52:23,308 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 02:52:23,882 - INFO - Starting runs for Random
 2025-04-25 02:52:23,885 - INFO - Random - Episode 1/500 | score=20 | reward=6.5 | steps=14 | valid_moves=14 | invalid_attempts=0
 2025-04-25 02:52:23,887 - INFO - Random - Episode 2/500 | score=0 | reward=2.0 | steps=11 | valid_moves=11 | invalid_attempts=0
@@ -2333,8 +2333,8 @@
 2025-04-25 02:54:29,520 - INFO - Masked PPO - Episode 498/500 | score=10 | reward=3.5 | steps=11 | valid_moves=11 | invalid_attempts=0
 2025-04-25 02:54:29,529 - INFO - Masked PPO - Episode 499/500 | score=750 | reward=62.0 | steps=32 | valid_moves=32 | invalid_attempts=0
 2025-04-25 02:54:29,569 - INFO - Masked PPO - Episode 500/500 | score=540 | reward=80.0 | steps=65 | valid_moves=65 | invalid_attempts=0
-2025-04-25 02:54:29,578 - INFO - Saved all episode results to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/results.csv
-2025-04-25 14:47:45,273 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 02:54:29,578 - INFO - Saved all episode results to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/results.csv
+2025-04-25 14:47:45,273 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 14:47:45,871 - INFO - Starting runs for Random
 2025-04-25 14:47:45,874 - INFO - Random - Episode 1/500 | score=0 | reward=0.5 | steps=8 | valid_moves=8 | invalid_attempts=0
 2025-04-25 14:47:45,876 - INFO - Random - Episode 2/500 | score=60 | reward=14.5 | steps=20 | valid_moves=20 | invalid_attempts=0
@@ -2864,7 +2864,7 @@
 2025-04-25 14:47:50,224 - INFO - PPO - Episode 25/500 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
 2025-04-25 14:47:50,418 - INFO - PPO - Episode 26/500 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
 2025-04-25 14:47:50,564 - INFO - PPO - Episode 27/500 | score=0 | reward=-500.0 | steps=1000 | valid_moves=0 | invalid_attempts=1000
-2025-04-25 14:47:59,258 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 14:47:59,258 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 14:47:59,775 - INFO - Starting runs for Random
 2025-04-25 14:47:59,777 - INFO - Random - Episode 1/5 | score=30 | reward=7.0 | steps=14 | valid_moves=14 | invalid_attempts=0
 2025-04-25 14:47:59,779 - INFO - Random - Episode 2/5 | score=100 | reward=16.5 | steps=23 | valid_moves=23 | invalid_attempts=0
@@ -2890,7 +2890,7 @@
 2025-04-25 14:48:01,049 - INFO - Masked PPO - Episode 4/5 | score=50 | reward=8.5 | steps=17 | valid_moves=17 | invalid_attempts=0
 2025-04-25 14:48:01,059 - INFO - Masked PPO - Episode 5/5 | score=210 | reward=33.0 | steps=32 | valid_moves=32 | invalid_attempts=0
 2025-04-25 14:48:01,059 - INFO - Starting runs for Masked DQN
-2025-04-25 14:48:56,629 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 14:48:56,629 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 14:48:57,197 - INFO - Starting runs for Random
 2025-04-25 14:48:57,201 - INFO - Random - Episode 1/5 | score=10 | reward=4.5 | steps=13 | valid_moves=13 | invalid_attempts=0
 2025-04-25 14:48:57,203 - INFO - Random - Episode 2/5 | score=0 | reward=2.0 | steps=11 | valid_moves=11 | invalid_attempts=0
@@ -2916,7 +2916,7 @@
 2025-04-25 14:48:58,452 - INFO - Masked PPO - Episode 4/5 | score=10 | reward=3.5 | steps=11 | valid_moves=11 | invalid_attempts=0
 2025-04-25 14:48:58,476 - INFO - Masked PPO - Episode 5/5 | score=1110 | reward=125.5 | steps=79 | valid_moves=79 | invalid_attempts=0
 2025-04-25 14:48:58,476 - INFO - Starting runs for Masked DQN
-2025-04-25 14:53:38,185 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 14:53:38,185 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 14:53:38,768 - INFO - Starting runs for Random
 2025-04-25 14:53:38,772 - INFO - Random - Episode 1/5 | score=150 | reward=21.5 | steps=23 | valid_moves=23 | invalid_attempts=0
 2025-04-25 14:53:38,775 - INFO - Random - Episode 2/5 | score=260 | reward=33.5 | steps=32 | valid_moves=32 | invalid_attempts=0
@@ -2947,8 +2947,8 @@
 2025-04-25 14:53:40,131 - INFO - Masked DQN - Episode 3/5 | score=540 | reward=57.5 | steps=38 | valid_moves=38 | invalid_attempts=0
 2025-04-25 14:53:40,133 - INFO - Masked DQN - Episode 4/5 | score=20 | reward=5.0 | steps=11 | valid_moves=11 | invalid_attempts=0
 2025-04-25 14:53:40,149 - INFO - Masked DQN - Episode 5/5 | score=1000 | reward=118.0 | steps=79 | valid_moves=79 | invalid_attempts=0
-2025-04-25 14:53:40,154 - INFO - Saved all episode results to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/results.csv
-2025-04-25 14:56:40,124 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 14:53:40,154 - INFO - Saved all episode results to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/results.csv
+2025-04-25 14:56:40,124 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 14:56:40,646 - INFO - Starting runs for Random
 2025-04-25 14:56:40,648 - INFO - Random - Episode 1/5 | score=50 | reward=8.5 | steps=13 | valid_moves=13 | invalid_attempts=0
 2025-04-25 14:56:40,650 - INFO - Random - Episode 2/5 | score=150 | reward=20.5 | steps=23 | valid_moves=23 | invalid_attempts=0
@@ -2974,7 +2974,7 @@
 2025-04-25 14:56:41,893 - INFO - Masked PPO - Episode 4/5 | score=10 | reward=5.0 | steps=14 | valid_moves=14 | invalid_attempts=0
 2025-04-25 14:56:41,900 - INFO - Masked PPO - Episode 5/5 | score=440 | reward=41.0 | steps=23 | valid_moves=23 | invalid_attempts=0
 2025-04-25 14:56:41,900 - INFO - Starting runs for Masked DQN
-2025-04-25 15:00:11,812 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 15:00:11,812 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 15:00:12,395 - INFO - Starting runs for Random
 2025-04-25 15:00:12,398 - INFO - Random - Episode 1/5 | score=10 | reward=3.5 | steps=11 | valid_moves=11 | invalid_attempts=0
 2025-04-25 15:00:12,400 - INFO - Random - Episode 2/5 | score=30 | reward=7.0 | steps=14 | valid_moves=14 | invalid_attempts=0
@@ -3005,8 +3005,8 @@
 2025-04-25 15:00:13,664 - INFO - Masked DQN - Episode 3/5 | score=380 | reward=38.5 | steps=26 | valid_moves=26 | invalid_attempts=0
 2025-04-25 15:00:13,667 - INFO - Masked DQN - Episode 4/5 | score=20 | reward=5.0 | steps=11 | valid_moves=11 | invalid_attempts=0
 2025-04-25 15:00:13,680 - INFO - Masked DQN - Episode 5/5 | score=690 | reward=83.0 | steps=58 | valid_moves=58 | invalid_attempts=0
-2025-04-25 15:00:13,684 - INFO - Saved all episode results to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/results.csv
-2025-04-25 15:03:02,748 - INFO - Logs will be saved to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/simulation.log
+2025-04-25 15:00:13,684 - INFO - Saved all episode results to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/results.csv
+2025-04-25 15:03:02,748 - INFO - Logs will be saved to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/simulation.log
 2025-04-25 15:03:03,340 - INFO - Starting runs for Random
 2025-04-25 15:03:03,350 - INFO - Random - Episode 1/500 | score=230 | reward=38.0 | steps=38 | valid_moves=38 | invalid_attempts=0
 2025-04-25 15:03:03,351 - INFO - Random - Episode 2/500 | score=10 | reward=5.0 | steps=14 | valid_moves=14 | invalid_attempts=0
@@ -5512,4 +5512,4 @@
 2025-04-25 15:05:19,636 - INFO - Masked DQN - Episode 498/500 | score=1760 | reward=167.0 | steps=89 | valid_moves=89 | invalid_attempts=0
 2025-04-25 15:05:19,642 - INFO - Masked DQN - Episode 499/500 | score=190 | reward=30.5 | steps=29 | valid_moves=29 | invalid_attempts=0
 2025-04-25 15:05:19,648 - INFO - Masked DQN - Episode 500/500 | score=170 | reward=26.0 | steps=26 | valid_moves=26 | invalid_attempts=0
-2025-04-25 15:05:19,661 - INFO - Saved all episode results to /Users/dorderistic/Code/BlockBlast-Game-AI-Agent/agent_comparison/results/results.csv
+2025-04-25 15:05:19,661 - INFO - Saved all episode results to d:/Desktops/2025-2026/AIO 2025/AI-Agent-BlockBlast/agent_comparison/results/results.csv

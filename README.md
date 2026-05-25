@@ -1,4 +1,5 @@
 # Block Blast Game + Reinforcement Learning AI Agent
+### Developed by: Hoàng Xuân Đức (Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội - KHTN ĐHQGHN)
 
 Block Blast is a Tetris-inspired puzzle game played on an 8×8 grid. At each turn, the player (or agent) is presented with three randomly generated block shapes and must choose one to place anywhere on the board. Whenever an entire row or column is filled, it clears and awards points; clearing multiple lines in succession activates a combo multiplier for even higher scores.
 
@@ -89,8 +90,8 @@ BlockBlast-Game-AI-Agent/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/RisticDjordje/BlockBlast-Game-AI-Agent.git
-   cd BlockBlast-Game-AI-Agent
+   git clone https://github.com/duchoang206/AI-Agent-BlockBlast.git
+   cd AI-Agent-BlockBlast
    ```
 
 2. **Create & activate a virtual environment**
@@ -208,8 +209,8 @@ Contributions are what make the open source community such an amazing place to l
 1. **Fork the repository** to your own GitHub account.
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YourUserName/BlockBlast-Game-AI-Agent.git
-   cd BlockBlast-Game-AI-Agent
+   git clone https://github.com/duchoang206/AI-Agent-BlockBlast.git
+   cd AI-Agent-BlockBlast
    ```
 3. **Create a new branch** for your work with a descriptive name (feature, bugfix, etc.):
    ```bash
@@ -252,14 +253,14 @@ We appreciate every contribution—big or small. Thank you for helping make Bloc
 
 - Action‐masking for DQN
 - Hyperparameter sweeps & longer training
-- Deploy a [public “BlockBlast Solver”](https://github.com/RisticDjordje/BlockBlast-Solver-Website) website with a MLOps pipeline
+- Deploy a public “BlockBlast Solver” website with a MLOps pipeline
 
 ---
 
 ## 🙏 Credits
 
 - **Game Assets**: [Kefrov’s Blast](https://github.com/Kefrov/Blast/)  
-  Everything else, including game logic, agent training, and analysis, is original work.
+  Everything else, including game logic, agent training, and analysis, was developed by Hoàng Xuân Đức (Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội - KHTN ĐHQGHN).
 
 ---
 
