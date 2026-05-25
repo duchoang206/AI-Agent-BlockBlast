@@ -7,7 +7,7 @@ import random
 class BlockGameState:
     """Core game logic for the block placement game, separated from visualization."""
 
-    # Define colors for the shapes
+    # Define colors for the block shapes
     COLORS = [
         (255, 191, 0),  # Yellow
         (255, 143, 0),  # Orange
