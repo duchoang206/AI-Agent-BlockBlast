@@ -108,7 +108,7 @@ def train_dqn(total_timesteps=100_000, save_path=None, continue_training=False):
 
 
 if __name__ == "__main__":
-    # Hyperparameters
+    # DQN training hyperparameters configuration
     total_timesteps = 50_000_000
     continue_training = False
     do_train = True
