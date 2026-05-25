@@ -12,7 +12,7 @@ from blockblast_game.game_env import BlockGameEnv
 from agents.agent_visualizer import visualize_agent
 
 # ---------------------------------------------------------------------------
-# Paths
+# Directory Paths
 # ---------------------------------------------------------------------------
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 MODELS_DIR = os.path.join(SCRIPT_DIR, "models")
