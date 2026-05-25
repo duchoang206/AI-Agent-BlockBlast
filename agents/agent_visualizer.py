@@ -5,17 +5,18 @@ Provides a consistent interface for visualizing different types of agents.
 """
 
 import time
+from typing import Any
 import numpy as np
 
 
 def visualize_agent(
-    env,
-    agent,
+    env: Any,
+    agent: Any,
     episodes: int = 5,
     delay: float = 0.2,
     use_masks: bool = False,
     window_title: str | None = None,
-):
+) -> None:
     """Visualize an agent playing the block game.
 
     Args:
