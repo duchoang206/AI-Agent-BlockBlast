@@ -22,7 +22,7 @@ class BlockGameRenderer:
         pygame.init()
         pygame.mixer.init()
 
-        # Constants
+        # Game window dimension constants
         self.INIT_WIDTH = 1200
         self.INIT_HEIGHT = 800
         self.BACKGROUND_COLOR = (220, 220, 220)
