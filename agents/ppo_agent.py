@@ -17,7 +17,7 @@ PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, os.pardir))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
-# Directories
+# Directories for saving models and logs
 MODELS_DIR = os.path.join(SCRIPT_DIR, "models")
 LOGS_DIR = os.path.join(SCRIPT_DIR, "logs")
 os.makedirs(MODELS_DIR, exist_ok=True)
